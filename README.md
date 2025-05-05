@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World!!👋
+
+    - I'm a Dan a junior developer & programmer still learning and curious in many things.
 
 <!--
 **ddanji16/ddanji16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
