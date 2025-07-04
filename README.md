@@ -1,6 +1,6 @@
-## Hello World!! 
+w## Hello World!! 
 
     - I'm a Dan  a programmer still learning 
-    - helloworld("Print");
+    - coding is hard asf
 
   pindot pindot la kuno an IT HAHAHAHHA
