@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web and App developer, currently a College  Student At Samar State University with a Course Of Information Technology.</h3>
 
 
-<br><br>
+<br>
 
 
 - 🔭 I’m currently working on [AcadEase Project Requirements](https://github.com/ddanji16/AcadEaseAppSystem.git)
