@@ -1,4 +1,4 @@
-<h2 align="left">Hello world! My name is Dan, and I'm a Web and App Developer. Still learning  </h2>
+<h1 align="left">Hello world! I'm Dan, I'm a Web and App Developer. Still learning  </h1>
 
 ###
 
