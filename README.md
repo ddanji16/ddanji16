@@ -1,4 +1,4 @@
-<h1 align="left">Hello world! I'm Dan, a Web and App Developer. Still learning  </h1>
+<h1 align="left"><h5> Hello world! <h5>I'm Dan, a Web and App Developer. Still learning  </h1>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
