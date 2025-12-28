@@ -1,5 +1,5 @@
-<h1 align="left"><h5> Hello world! <h5>I'm Dan, a Web and App Developer. Still learning  </h1>
-
+<h1 align="left">I'm Dan, a Web and App Developer. Still learning  </h1>
+<h2>Hello wolrd</h2>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
