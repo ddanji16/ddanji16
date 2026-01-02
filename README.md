@@ -1,11 +1,12 @@
-<h2 align="center">I'm Dan, a Web and App Developer. Still learning  </h2>
+<h2 align="center">I'm Dan, A web and app Developer. Still learning  </h2>
+
 <br>
 
 
 <h3>Hello wolrd</h3>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -52,3 +53,6 @@
 
 <img src="https://raw.githubusercontent.com/ddanji16/ddanji16/output/snake.svg" alt="Snake animation" />
 
+<br>
+
+<p>Coding is hard asf</p>
