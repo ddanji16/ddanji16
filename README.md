@@ -1,5 +1,5 @@
 
-<h2 align="center">Yo I'm Dan, A web and app Developer. Still learning  </h2>
+<h2 align="center">Yo I'm Dan, A web and app developer. still learning  </h2>
 
 <br>
 
@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
 </div>
 
 <br> <br>
