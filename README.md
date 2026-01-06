@@ -50,7 +50,7 @@
 </div>
 
 
-<p align="center">Coding is hard asf hahaha</p>
+<h1 align="center">Coding is hard asf hahaha</h1>
 
 <br>
 
