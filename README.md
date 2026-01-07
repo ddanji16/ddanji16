@@ -1,10 +1,10 @@
 
-<h2 align="center">Yo I'm Dan, A web and app developer. still learning  </h2>
+<h2 align="center">Yo I'm Dan, A web and app developer. still learning... </h2>
 
 <br>
 
 
-<h3>Hello wolrd</h3>
+<h3>Hello wolrd</h3> 
 <br>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
