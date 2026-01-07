@@ -10,7 +10,7 @@
 
 <br>
 
-<h4>Tech stack</h4>
+<h3>Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
