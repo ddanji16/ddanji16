@@ -1,6 +1,7 @@
-
+<br>
 <h2 align="center">Yo I'm Dan, A web and app developer. still learning... </h2>
 
+<br>
 <br>
 
 
