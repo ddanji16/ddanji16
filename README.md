@@ -1,3 +1,4 @@
+
 <br>
 <h2 align="center">yo I'm Dan, A web and app developer. still learning... </h2>
 
@@ -72,17 +73,15 @@
 </div>
 
 
-<h1 align="center">Coding is hard asf hahaha</h1>
-
 <br>
 
 
 <img src="https://raw.githubusercontent.com/ddanji16/ddanji16/output/snake.svg" alt="Snake animation" />
 
 <br>
-<br>
 
 <div align="center">
 <img height="150" src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" />
 
 </div>
+<h3 align="center">Coding is hard asf hahaha</h3>
