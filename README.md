@@ -5,10 +5,17 @@
 
 
 
-<h3 align="center" style="color:red;">Hello Wolrd</h3> 
+<h3 align="center" >Hello Wolrd</h3> 
 <br>
 <div align="center">
   <img  height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <!--
+  <img height="150" src="https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif" />
+  -->
+
+
+
+
 </div >
 
 
@@ -73,5 +80,9 @@
 <img src="https://raw.githubusercontent.com/ddanji16/ddanji16/output/snake.svg" alt="Snake animation" />
 
 <br>
+<br>
 
+<div align="center">
+<img height="150" src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" />
 
+</div>
