@@ -1,6 +1,6 @@
 
 <br>
-<h2 align="center">yo I'm Dan, A web and app developer. still learning... </h2>
+<h2 align="center">yo i'm dan, A web and app developer. still learning... </h2>
 
 <br>
 
