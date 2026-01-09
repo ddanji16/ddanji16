@@ -22,7 +22,7 @@
 
 <br>
 <br>
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Tech Stack:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,6 +72,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<h3 align="center">Coding is hard asf hahaha</h3>
+
 
 <br>
 
@@ -79,9 +81,8 @@
 <img src="https://raw.githubusercontent.com/ddanji16/ddanji16/output/snake.svg" alt="Snake animation" />
 
 <br>
-
+<!--
 <div align="center">
 <img height="150" src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" />
-
 </div>
-<h3 align="center">Coding is hard asf hahaha</h3>
+-->
