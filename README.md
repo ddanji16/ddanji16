@@ -72,7 +72,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h3 align="center">Coding is hard asf hahaha</h3>
+<h4 align="center">coding is hard asf huhu</h4>
 
 
 <br>
