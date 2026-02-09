@@ -1,6 +1,6 @@
 
 <br>
-<h2 align="center">Yo I'm dan, A web and app developer. still learning... </h2>
+<h2 align="center">learning to code... </h2>
 
 <br>
 
@@ -67,7 +67,7 @@
 
 <br>
 
-
+<!--
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -76,7 +76,7 @@
 
 
 <br>
-
+-->
 
 <img src="https://raw.githubusercontent.com/ddanji16/ddanji16/output/snake.svg" alt="Snake animation" />
 
