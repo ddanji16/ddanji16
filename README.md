@@ -1,6 +1,6 @@
 
 <br>
-<h2 align="center">learning to how to code  </h2>
+<h2 align="center">learning how to codeee</h2>
 
 <br>
 
