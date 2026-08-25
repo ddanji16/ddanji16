@@ -76,7 +76,7 @@
 -->
 <br>
 <br>
-
+<!--
 
 <div align="center">
   <img
@@ -87,7 +87,7 @@
 </div>
 
 
- 
+ -->
   <!--
 
 <h3 align="center">Languages and Tools:</h3> <br>
