@@ -76,18 +76,12 @@
 -->
 <br>
 <br>
-<!--
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ddanji16&bg_color=0d1117&color=58a6ff&line=1f6feb&point=39d353&area=true&area_color=39d353&hide_border=true&custom_title=<h5>My%20Contribution%20Activity</h5>&radius=8"
-    width="95%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</div>
 
 
- -->
+
+
+
+
   <!--
 
 <h3 align="center">Languages and Tools:</h3> <br>
