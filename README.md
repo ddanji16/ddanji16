@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
+<h3 align="center">Who Am I</h3>
 
 <div align="center">
 
