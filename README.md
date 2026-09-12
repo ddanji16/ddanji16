@@ -51,9 +51,10 @@ Currently learning and improving my development skills, Building projects to gai
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" /> <img width="12" />
 
 <br>
+<br>
+<br>
 
-
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ddanji16)](https://github.com/stats-organization/github-stats-extended)
 
 
 <br>
