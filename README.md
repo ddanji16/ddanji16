@@ -54,7 +54,11 @@ Currently learning and improving my development skills, Building projects to gai
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ddanji16)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ddanji16&show_icons=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
+<br>
+<br>
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=ddanji16&langs_count=4&theme=transparent)
+
 
 
 <br>
