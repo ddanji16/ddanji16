@@ -33,7 +33,7 @@ Currently learning and improving my development skills, Building projects to gai
 
 
 
-<h3 align="center">Tech Stack:</h3>
+<h3 align="center">techstack:</h3>
 
 
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <img width="12" /> 
