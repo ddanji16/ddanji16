@@ -22,7 +22,7 @@
 <div align="center">
 
 <p align="justify">
-   <br>I'm a developer who is continuously learning, experimenting, and building projects.
+   <br>I'm a developer/programmer who is continuously learning, experimenting, and building projects.
 I enjoy exploring web development, programming, databases, and software development while improving my skills through hands-on projects.
 Currently learning and improving my development skills, Building projects to gain real-world experience, Always learning something new, Turning ideas into something!
 </div>
